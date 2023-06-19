@@ -1,0 +1,13 @@
+###insert the lines in file
+
+echo "Hii write here place here" > abc
+
+
+#### check what write in insert
+
+cat abc
+
+####delete file
+
+rm file name eg - rm abc
+
